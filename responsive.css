@@ -1,0 +1,148 @@
+@media only screen and (min-width:300px) and (max-width:900px) {
+
+    /* .navbar-toggler{
+        margin-left: 13rem;
+    } */
+
+    .main h1 {
+        font-size: 28px;
+        font-weight: 800;
+        width: 300px;
+    }
+
+    .p-5 {
+        padding: 1rem !important;
+    }
+
+    /* .service{
+        background-color: red !important;
+    } */
+
+    .main p {
+        font-size: 18px;
+        width: 270px;
+        font-weight: 700;
+    }
+
+    .about>div>div>h1::before {
+        top: 53px;
+    }
+
+    .txt button {
+        width: 200px;
+    }
+
+    .content,
+    .btn {
+        margin-top: 20px !important;
+    }
+
+    .price .price-card {
+        width: 100% !important;
+    }
+
+    .call p {
+        width: 280px;
+    }
+
+    .call h3 {
+        width: 276px;
+    }
+
+    .call .context {
+        text-align: center !important;
+    }
+
+    .call .call-btn {
+        left: 45px;
+    }
+
+    .faq>div>h1 {
+        width: auto;
+    }
+
+    .faq>div>h1::before {
+        top: 84px;
+    }
+
+    .team-card {
+        display: block;
+        text-align: center;
+    }
+
+    .team-card p {
+        margin-bottom: 10px !important;
+    }
+
+    .price>div>h1::before {
+        top: 53px;
+    }
+
+    .contact .contact-form {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .footer-form button {
+        margin: 0px 0px 0px -61px;
+    }
+
+    .footer-form {
+        width: 100%;
+    }
+
+    .team .icon {
+        margin-left: 30px;
+    }
+
+
+    .contact>div>h1::before {
+        top: 53px;
+    }
+
+    .port>div>div>h1::before,
+    .service>div>h1::before,
+    .team>div>div>h1::before {
+        top: 52px;
+    }
+
+    .content p{
+        margin-bottom: 20px !important;
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:768px) {
+    .main h1 {
+        font-size: 40px;
+        font-weight: 800;
+        width: 500px;
+    }
+
+    .main p {
+        font-size: 25px;
+        width: 500px;
+        font-weight: 700;
+    }
+
+    .txt button {
+        width: 200px;
+    }
+
+    .call p {
+        width: 500px;
+        margin-left: 20%;
+    }
+
+    .call .call-btn {
+        left: 40%;
+    }
+
+    .team .icon {
+        margin-left: 35%;
+        margin-top: 20px;
+    }
+
+    .price .price-card {
+        width: 50% !important;
+    }
+}
